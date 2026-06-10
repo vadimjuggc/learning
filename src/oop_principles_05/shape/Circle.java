@@ -17,4 +17,8 @@ public class Circle extends Shape{
     public void PrintInfo() {
         System.out.println("radius = " + radius + " area: " + area());
     }
+
+    public double getRadius() {
+        return radius;
+    }
 }

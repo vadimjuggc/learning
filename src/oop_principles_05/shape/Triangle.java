@@ -19,4 +19,12 @@ public class Triangle extends Shape{
         this.a = a;
         this.h = h;
     }
+
+    public double getA() {
+        return a;
+    }
+
+    public double getH() {
+        return h;
+    }
 }

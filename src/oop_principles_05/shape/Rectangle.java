@@ -19,4 +19,12 @@ public class Rectangle extends Shape{
     public void PrintInfo() {
         System.out.println("a = " + a + " b = " + b + " area: " + area());
     }
+
+    public double getA() {
+        return a;
+    }
+
+    public double getB() {
+        return b;
+    }
 }
