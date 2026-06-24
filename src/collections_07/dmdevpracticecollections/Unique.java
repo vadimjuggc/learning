@@ -1,8 +1,7 @@
-package collections_07.dmdevpractice;
+package collections_07.dmdevpracticecollections;
 
 import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.Iterator;
 
 public class Unique {
     public static void main(String[] args) {

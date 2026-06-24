@@ -1,4 +1,4 @@
-package collections_07.dmdevpractice;
+package collections_07.dmdevpracticecollections;
 
 import java.util.HashSet;
 import java.util.Map;
