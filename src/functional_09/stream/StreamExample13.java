@@ -23,8 +23,8 @@ public class StreamExample13 {
     public static void main(String[] args) {
         List<Person> people = List.of(
                 new Person("Иван", "Петров", 20),
-                new Person("Александр", "Константинопольский", 45), // Полное имя > 15 симв. (игнорируем)
-                new Person("Анна", "Седокова", 35),                 // Подходит по длине, старше Ивана
+                new Person("Александр", "Константинопольский", 45),
+                new Person("Анна", "Седокова", 35),
                 new Person("Ольга", "Бузова", 18)
         );
 
